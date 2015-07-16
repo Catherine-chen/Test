@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		251D969C1B4BD09A00DE4F64 /* JYGraphView.m in Sources */ = {isa = PBXBuildFile; fileRef = 251D969B1B4BD09A00DE4F64 /* JYGraphView.m */; };
+		2552E6C91B57ACC600541BB4 /* CHShopViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2552E6C81B57ACC600541BB4 /* CHShopViewController.m */; };
 		25607BB31B43CAEE007B744A /* CHScrollTopViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 25607BB21B43CAEE007B744A /* CHScrollTopViewController.m */; };
 		2560D83C1B466F4D0076202F /* JYGraphPoint.m in Sources */ = {isa = PBXBuildFile; fileRef = 2560D83A1B466F4D0076202F /* JYGraphPoint.m */; };
 		2560D83F1B466FA30076202F /* CHWeatherViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2560D83E1B466FA30076202F /* CHWeatherViewController.m */; };
@@ -40,6 +41,8 @@
 /* Begin PBXFileReference section */
 		251D969A1B4BD09A00DE4F64 /* JYGraphView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JYGraphView.h; sourceTree = "<group>"; };
 		251D969B1B4BD09A00DE4F64 /* JYGraphView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JYGraphView.m; sourceTree = "<group>"; };
+		2552E6C71B57ACC600541BB4 /* CHShopViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CHShopViewController.h; sourceTree = "<group>"; };
+		2552E6C81B57ACC600541BB4 /* CHShopViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CHShopViewController.m; sourceTree = "<group>"; };
 		25607BB11B43CAEE007B744A /* CHScrollTopViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CHScrollTopViewController.h; sourceTree = "<group>"; };
 		25607BB21B43CAEE007B744A /* CHScrollTopViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CHScrollTopViewController.m; sourceTree = "<group>"; };
 		2560D8391B466F4D0076202F /* JYGraphPoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JYGraphPoint.h; sourceTree = "<group>"; };
@@ -133,6 +136,8 @@
 				2560D83E1B466FA30076202F /* CHWeatherViewController.m */,
 				25EFF9311B4A15C300387DAB /* CHTableViewController.h */,
 				25EFF9321B4A15C300387DAB /* CHTableViewController.m */,
+				2552E6C71B57ACC600541BB4 /* CHShopViewController.h */,
+				2552E6C81B57ACC600541BB4 /* CHShopViewController.m */,
 				25CDA7C91B37A14700F0960E /* Main.storyboard */,
 				25CDA7CC1B37A14700F0960E /* Images.xcassets */,
 				25CDA7CE1B37A14700F0960E /* LaunchScreen.xib */,
@@ -279,6 +284,7 @@
 				2560D83C1B466F4D0076202F /* JYGraphPoint.m in Sources */,
 				251D969C1B4BD09A00DE4F64 /* JYGraphView.m in Sources */,
 				25CDA7C21B37A14700F0960E /* main.m in Sources */,
+				2552E6C91B57ACC600541BB4 /* CHShopViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
